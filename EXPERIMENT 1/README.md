@@ -68,7 +68,7 @@
 ## case-2(D<0)
 ![experiment 1 output](quad2.png)
 ## Output:
-## case-3(D>0)
+## case-3(D=0)
 ![experiment 1 output](quad3.png)
 
 
