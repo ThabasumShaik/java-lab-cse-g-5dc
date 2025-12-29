@@ -64,6 +64,13 @@
 ## Output:
 ## case-1(D>0)
 ![experiment 1 output](quad1.png)
+## Output:
+## case-1(D=0)
+![experiment 1 output](quad2.png)
+## Output:
+## case-1(D<0)
+![experiment 1 output](quad3.png)
+
 
 
 
