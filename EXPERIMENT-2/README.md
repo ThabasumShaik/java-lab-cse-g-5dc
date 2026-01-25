@@ -52,3 +52,31 @@ class Main{
 ```
 ## output:
 ![experiment2output](overloading.png)
+
+# 2c)Write a java program to implement method constructor.
+# source code:
+``` java
+class Student{
+   String sname;
+   int sage;
+   double smarks;
+   Student(String name,int age,double marks){
+   sname = name;
+   sage = age;
+   smarks = marks;
+   }
+   void display(){
+   System.out.println("Student name:" + sname);
+   System.out.println("Student age:" + sage);
+   System.out.println("Student marks: " + smarks);
+   }
+ }
+class Main{
+   public static void main(String args[]){
+   Student s = new Student("Sumithra ",19,982);
+   s.display();
+   }
+ }
+```
+## output:
+![experiment2output](constructor.png)
