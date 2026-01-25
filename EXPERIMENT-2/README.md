@@ -1,6 +1,7 @@
 ## EXPERIMENT-2
 # 2a)title Implement class mechanism im java.create a class,methods and invoke them inside method.
 # SORCE CODE:
+``` java
 public class Rectangle{
    double length;
    double breadth;
@@ -22,5 +23,6 @@ class Main {
    System.out.println("perimeter of given rectangle: "+perimeter);
    }
  }
+```
  ## output:
  [experiment2output](mechanism.png)
