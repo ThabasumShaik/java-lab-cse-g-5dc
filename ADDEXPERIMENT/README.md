@@ -1,4 +1,4 @@
-## EXPERIMENT 2:
+## EXPERIMENT additional:
 ## Title : To find the sum of the first n Fibonacci numbers>
 ## Source code:
 ``` java
