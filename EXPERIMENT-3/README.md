@@ -88,10 +88,8 @@ class Main{
       System.out.println("key item exist at index:" + index);
     sc.close();
   }
+   return -1;
 }
 ```
-## output:
+  ## output:
 ![experiment3output](binarysearch.png)
-   return -1;
-    }
-  
