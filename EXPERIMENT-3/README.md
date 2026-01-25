@@ -23,7 +23,7 @@ class Main{
   public static void main(String args[]){
     Student std = new Student();
     std.display();
-    Student std1 = new Student("Sumithra",19,98.2);
+    Student std1 = new Student("Thabasum",19,98.2);
     std1.display();
   }
 }
